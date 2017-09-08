@@ -103,9 +103,6 @@ With an external takeover, a mapping of users-to-resources is created so users c
 Currently the following services support takeover:
 
 * RMS
-
-The following services will soon be supporting takeover:
-
 * PowerBI
 
 The following do not and require additional admin action to migrate user data after an external takeover.
